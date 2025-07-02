@@ -1,0 +1,54 @@
+body {
+    font-family: Comic Sans MS;
+    background-image: url('https://wallscloud.net/img/resize/1024/576/MM/2017-02-28-Color-shade.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+.container {
+    width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.5) 50%, rgba(0, 0, 0, 0.5) 50%);
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    height: 700px;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(249, 249, 249);
+    font-weight: bold;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin: 10px 0;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+
+input {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #000000ce;
+    border-radius: 3px;
+    background-color: #f7caca;
+}
+
+button {
+    background-color: white; /* Change the button color to white */
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    border: none;
+    border-radius: 20px; /* Add a curvy box by increasing the border-radius */
+    cursor: pointer;
+    font-weight: bold; /* Make the text bold */
+    font-family: Comic Sans MS;
+}
