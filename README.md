@@ -71,10 +71,10 @@ Skillify integrates modern web technologies to deliver a holistic learning exper
 ![Login Page](https://github.com/Rekha050803/Skillify-A-Learning-Platform/blob/c210c85dcd0f832152fa761f6531a32b6bac07d1/Skillify/Output%20screenshots/Login.jpg)
 
 ### 🧠 Study Hub
-![Study Hub](https://github.com/Rekha050803/Skillify-A-Learning-Platform/blob/4c5c6171755a15fe220f0a538c35b4a6ccc237b3/Skillify/Output%20screenshots/Study%20Hub.jpg)
+![Study Hub](https://github.com/Rekha050803/Skillify-A-Learning-Platform/blob/9df8dfd472844e83713f5c5ebf10021228ade9a6/Skillify/Output%20screenshots/Study%20Hub.jpg)
 
 ### 📚 Flashcards for Practice
-![Flashcards](https://github.com/Rekha050803/Skillify-A-Learning-Platform/blob/4c5c6171755a15fe220f0a538c35b4a6ccc237b3/Skillify/Output%20screenshots/Flash%20cards.jpg)
+![Flashcards](https://github.com/Rekha050803/Skillify-A-Learning-Platform/blob/9df8dfd472844e83713f5c5ebf10021228ade9a6/Skillify/Output%20screenshots/Flash%20cards.jpg)
 
 ### 📝 Quiz Module
 ![Quiz Module](https://github.com/Rekha050803/Skillify-A-Learning-Platform/blob/c210c85dcd0f832152fa761f6531a32b6bac07d1/Skillify/Output%20screenshots/Quiz%20test.jpg)
