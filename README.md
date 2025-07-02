@@ -61,11 +61,11 @@ Skillify emphasizes lifelong learning and innovation in digital education.
 
 Skillify integrates modern web technologies to deliver a holistic learning experience. Below are some screenshots showcasing the platform’s core features and UI:
 
-### Home Page
-![Login Page](https://github.com/Rekha050803/Skillify-A-Learning-Platform/blob/4c5c6171755a15fe220f0a538c35b4a6ccc237b3/Skillify/Output%20screenshots/Home.jpg)
+### 🏠 Home Page
+![Login Page](https://github.com/Rekha050803/Skillify-A-Learning-Platform/blob/70e72ef702e943ec8996b7861b0979837c1c33f8/Skillify/Output%20screenshots/Home.jpg)
 
-### 🔐 Sign Up Page
-![Login Page](https://github.com/Rekha050803/Skillify-A-Learning-Platform/blob/4c5c6171755a15fe220f0a538c35b4a6ccc237b3/Skillify/Output%20screenshots/Login.jpg)
+### 📝 Sign Up Page
+![Login Page](https://github.com/Rekha050803/Skillify-A-Learning-Platform/blob/70e72ef702e943ec8996b7861b0979837c1c33f8/Skillify/Output%20screenshots/Sign%20Up.jpg)
 
 ### 🔐 Login Page
 ![Login Page](https://github.com/Rekha050803/Skillify-A-Learning-Platform/blob/4c5c6171755a15fe220f0a538c35b4a6ccc237b3/Skillify/Output%20screenshots/Login.jpg)
