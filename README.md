@@ -68,7 +68,7 @@ Skillify integrates modern web technologies to deliver a holistic learning exper
 ![Login Page](https://github.com/Rekha050803/Skillify-A-Learning-Platform/blob/70e72ef702e943ec8996b7861b0979837c1c33f8/Skillify/Output%20screenshots/Sign%20Up.jpg)
 
 ### 🔐 Login Page
-![Login Page](https://github.com/Rekha050803/Skillify-A-Learning-Platform/blob/4c5c6171755a15fe220f0a538c35b4a6ccc237b3/Skillify/Output%20screenshots/Login.jpg)
+![Login Page](https://github.com/Rekha050803/Skillify-A-Learning-Platform/blob/c210c85dcd0f832152fa761f6531a32b6bac07d1/Skillify/Output%20screenshots/Login.jpg)
 
 ### 🧠 Study Hub
 ![Study Hub](https://github.com/Rekha050803/Skillify-A-Learning-Platform/blob/4c5c6171755a15fe220f0a538c35b4a6ccc237b3/Skillify/Output%20screenshots/Study%20Hub.jpg)
@@ -77,10 +77,10 @@ Skillify integrates modern web technologies to deliver a holistic learning exper
 ![Flashcards](https://github.com/Rekha050803/Skillify-A-Learning-Platform/blob/4c5c6171755a15fe220f0a538c35b4a6ccc237b3/Skillify/Output%20screenshots/Flash%20cards.jpg)
 
 ### 📝 Quiz Module
-![Quiz Module](https://github.com/Rekha050803/Skillify-A-Learning-Platform/blob/4c5c6171755a15fe220f0a538c35b4a6ccc237b3/Skillify/Output%20screenshots/Quiz%20test.jpg)
+![Quiz Module](https://github.com/Rekha050803/Skillify-A-Learning-Platform/blob/c210c85dcd0f832152fa761f6531a32b6bac07d1/Skillify/Output%20screenshots/Quiz%20test.jpg)
 
-![Quiz Module](https://github.com/Rekha050803/Skillify-A-Learning-Platform/blob/4c5c6171755a15fe220f0a538c35b4a6ccc237b3/Skillify/Output%20screenshots/Quiz.jpg)
+![Quiz Module](https://github.com/Rekha050803/Skillify-A-Learning-Platform/blob/c210c85dcd0f832152fa761f6531a32b6bac07d1/Skillify/Output%20screenshots/Quiz.jpg)
 
 ### 🏆 Leaderboard
-![Leaderboard](https://github.com/Rekha050803/Skillify-A-Learning-Platform/blob/4c5c6171755a15fe220f0a538c35b4a6ccc237b3/Skillify/Output%20screenshots/Leader%20Board.jpg)
+![Leaderboard](https://github.com/Rekha050803/Skillify-A-Learning-Platform/blob/c210c85dcd0f832152fa761f6531a32b6bac07d1/Skillify/Output%20screenshots/Leader%20Board.jpg)
 
